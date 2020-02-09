@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe768d28-0bd4-4e61-80a7-a7d84f9b593b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/face-detector-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/face-detector-api.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.15.0" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,7 +52,7 @@
       <workItem from="1581170944237" duration="10000" />
       <workItem from="1581171455054" duration="4571000" />
       <workItem from="1581178231886" duration="16000" />
-      <workItem from="1581186242752" duration="34235000" />
+      <workItem from="1581186242752" duration="34551000" />
     </task>
     <servers />
   </component>
@@ -60,6 +60,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="928" y="0" key="SettingsEditor" timestamp="1581226165891">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="928" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581226165891" />
     <state x="1104" y="113" key="run.anything.popup" timestamp="1581210089203">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
